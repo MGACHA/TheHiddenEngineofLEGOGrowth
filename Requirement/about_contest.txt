@@ -1,0 +1,134 @@
+Power BI Dataviz World Champs | Round 2
+ 
+
+Opens: July 7th
+
+Closes: July 19th
+
+Round 3 opens: July 28
+
+
+Note: our fabulous community requested a couple of additional days to work on the challenge - so - we've extended the deadline from July 17 to July 19th. Get your entries in by 11:59pm Pacific time on July 19th to be eligible for judging. You can thank @PrachiJain_2025 for the extension :winking_face:
+
+ 
+
+Round 1 challenged competitors to create clarity from complexity using a fictional retail dataset. We saw more than 170 entries from around the world, each transforming raw data into compelling insights and visual stories! You all did an EXCELLENT job and we're already having so much fun judging your entries. Have questions on the judging process? Check out our blog post.
+
+Note that Round 2 is independent of Round 1 - meaning, you can compete in Round 2 even if you didn't compete in Round 1!
+
+
+🧱 Welcome to Brick by Brick - our second challenge on the path to Barcelona!
+
+This round takes competitors into the world of LEGO® data, using a dataset built from publicly available Rebrickable data. Hidden within thousands of sets, parts, colors, themes, and inventories are stories waiting to be discovered.
+
+ 
+
+Your challenge is simple: Use data visualization to uncover and communicate an interesting story, insight, trend, or relationship within the LEGO ecosystem.
+
+ 
+
+The strongest entries won't just show data. They'll help people see something they didn't know before.
+
+
+:envelope_with_arrow: Download the starter file.
+
+ 
+
+:laptop_computer: Access the source csv files if you need them!
+
+:magnifying_glass_tilted_right: Having issues? Check out the GitHub repo!
+
+ 
+
+:clapping_hands: Special Thanks
+
+A special thank you to Stephanie Bruno, Microsoft Data Platform MVP, who created and shared the Power BI data model used for this challenge. Stephanie's work transformed a complex collection of LEGO datasets into a model that allows competitors to focus their energy on exploration, storytelling, and design. We're grateful for her contribution to the challenge and to the broader data visualization community.
+
+ 
+
+:ballot_box_with_check: Challenge Requirements
+
+Tell a Story: Every submission must answer a question, communicate an insight, or tell a story. This is not a dashboard-building exercise. It is a data storytelling challenge.
+ 
+
+Ask yourself:
+
+- What surprised me?
+
+- What pattern did I discover?
+
+- What should viewers remember after they leave my report?
+
+
+2. Key Takeaway Requirement: Every submission must include a visible "Key Takeaway" statement on the landing page.
+
+ 
+
+The statement should be:
+
+- 50 words or fewer
+
+- Written for a general audience
+
+- Clearly summarize the most important insight from your report
+
+
+Think of it as the headline of your story.
+
+ 
+
+3. Data Source Attribution (Required): This challenge uses data sourced from the Rebrickable LEGO Database. All submissions must include a visible citation within the report. Submissions missing the data source attribution will not be eligible to win.
+
+
+Required attribution: Source: Rebrickable LEGO Database (rebrickable.com)
+
+
+Participants may clean, transform, enrich, or model the data as desired, but attribution to Rebrickable must remain visible in the final submission. We're grateful to the Rebrickable team for granting permission to use their data for the competition. 
+
+ 
+
+:trophy: Judging Criteria
+ 
+
+Entries will be evaluated on:
+
+Insightfulness
+Visual Effectiveness
+Creativity and Innovation
+Accessibility
+Storytelling and Communication
+Remember: beautiful visuals alone are not enough. The highest-scoring entries typically combine strong analysis, thoughtful design, and a memorable story.
+
+ 
+
+Meet the judges!
+
+ 
+
+:white_heavy_check_mark: Submission requirements
+
+All submissions must:
+
+Be built in Power BI Desktop
+Be a single .pbix file
+Contain no more than 5 pages
+Use the provided dataset
+Include at least three core Power BI visuals
+Meet accessibility expectations
+clear labels and alt text
+strong contrast
+intentional layout and reading order
+
+How to submit:
+In the Contests gallery, select Submit to contest - or - click this link
+Add your submission. Be sure to add:
+Image
+Description
+.pbix file or Publish to Web URL
+Tag your entry with "World Champs BCN"
+Check out the step-by-step instructions:  Power BI Data Visualization World Championships... - Microsoft Fabric Community
+ 
+:thinking_face: Think Beyond the Dashboard
+ 
+
+The LEGO universe spans decades of history, thousands of sets, countless themes, and millions of possible connections. What trends have emerged over time? Which themes have shaped the LEGO ecosystem? How have colors, parts, and building complexity evolved? What hidden relationships are waiting to be uncovered? That's for you to discover.
